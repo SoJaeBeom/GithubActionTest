@@ -25,4 +25,4 @@ jobs:
         run: npm install
 
       - name: Build static file
-        run: npm run build:dev
+        run: npm run build
